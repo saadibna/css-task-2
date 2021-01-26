@@ -1,0 +1,25 @@
+a{
+    background-color: #01a651;
+    color: white;
+    font-size: 20px;
+   
+}
+h2{
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+td{
+    background-color: #01a651;
+    
+}
+img{
+    
+    align-content: center;
+    text-align: center;
+}
+mark{
+    background-color: #01a651;
+    color: white;
+}
